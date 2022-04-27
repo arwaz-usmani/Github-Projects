@@ -1,0 +1,14 @@
+{
+    "name":"Corona tracker",
+    "version":"1.0.0",
+    
+    "action":{
+        "default_popup":"Corona_tracker.html",
+        "default_icon":"Corona_tracker_logo_128.png"
+    },
+    "icons":{
+        "128":"Corona_tracker_logo_128.png",
+        "64":"Corona_tracker_logo_64.png"
+    },
+    "manifest_version": 3
+}

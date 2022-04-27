@@ -1,0 +1,32 @@
+body{
+    height: 450px;
+    width: 250px;
+    background-color: black;
+    color: white;
+    
+}
+
+.title{
+    color: rgb(66, 252, 66);
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    margin-top: 30px;
+    margin-left: 13px;
+
+}
+.heading{
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    margin-left: 13px;
+
+}
+.list{
+    font-size: 15px;
+}
+
+#image{
+    display: inline;
+}

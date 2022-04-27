@@ -1,0 +1,70 @@
+
+ol, ul {
+	list-style: none;
+}
+
+body{
+    background-image: url("BG_img1.jpg");
+    height: 450px;
+    width: 650px;
+}
+h1{
+    color:rgba(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+
+#content{
+    color:rgba(255, 255, 255);
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+
+#list{
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 50px;
+    border-radius: 25px;
+    font-size: 20px;
+    border:none;
+    background-color: rgba(255, 255, 255);
+    color:rgba(0, 0, 0);
+    height: 50px;
+    width: 200px;
+}
+
+
+#cityName{
+    display: inline;
+    margin-left: 80px;
+    font-size: 25px;
+}
+#weather{
+    color:white;
+    display: inline;
+    margin-left: 130px;
+}
+
+#weatherContent{
+    display: flex;
+    justify-content: center;
+    margin-left: 360px;
+    font-size: 20px;
+}
+
+#container{
+    margin-top: 75px;
+}
+
+.green{
+    background-color: rgba(119, 253, 119, 0.788);
+}
+
+.red{
+    background-color: rgba(255, 0, 0, 0.788);
+}
